@@ -66,3 +66,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Trying to use React Functional components:
+
+https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108
